@@ -7,6 +7,6 @@ Each simulation just uses logic to make the creatures interact with eachother an
 "neuroevolution.py" Takes a completely diffrent approach, the creatures physical traits are the same. But what evolves is their neural network brain that make decisions on how to move the creature and get it to a safe zone by the end of the sim.
 
 
-# Requirements
-numpy
-matplotlib
+## Requirements
+- numpy
+- matplotlib
